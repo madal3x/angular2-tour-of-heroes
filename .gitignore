@@ -33,6 +33,3 @@ testem.log
 
 #System Files
 .DS_Store
-
-*.js
-*.js.map
